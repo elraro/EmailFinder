@@ -2,6 +2,10 @@
 
 EmailFinder is a program to find emails in .doc files recursively.
 
+## Build Status
+
+[![Build Status](https://travis-ci.org/elraro/EmailFinder.svg?branch=master)](https://travis-ci.org/elraro/EmailFinder)
+
 ## License
 
 [![License](https://img.shields.io/github/license/elraro/EmailFinder.svg)](https://github.com/elraro/EmailFinder/blob/master/LICENSE.txt)
